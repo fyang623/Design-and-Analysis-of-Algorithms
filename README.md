@@ -1,2 +1,5 @@
 # Design-and-Analysis-of-Algorithms
-My implementations of a bunch of algorithms during taking the famous Stanford "Algorithms" online course
+This repo contains my implementations of a bunch of algorithms during taking the famous Stanford "Algorithms" online course. All code was written in Java.
+
+### Author
+Fan Yang
